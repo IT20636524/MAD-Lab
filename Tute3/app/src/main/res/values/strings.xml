@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tute1</string>
+    <string name="et_message">Enter a message</string>
+    <string name="btn_send">SEND</string>
+    <string name="tv_number1">Number 1</string>
+    <string name="tv_number2">Number 2</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_add">+</string>
+    <string name="btn_substraction">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_division">/</string>
+    <string name="tv_toast">Opening Calculator</string>
+    <string name="et_toast">Open Calculator</string>
+</resources>

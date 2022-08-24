@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tute1</string>
+    <string name="et_message">Enter a message</string>
+    <string name="btn_send">SEND</string>
+    <string name="tv_username">User name</string>
+    <string name="tv_password">Password</string>
+    <string name="et_name">Name</string>
+    <string name="et_password">Password</string>
+    <string name="btn_select">Select all</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_signin">Sign in</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+</resources>
